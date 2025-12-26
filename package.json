@@ -1,5 +1,5 @@
 {
-  "name": "protoflio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "nth-check": "^2.1.1",
+    "postcss": "^8.4.38",
+    "webpack-dev-middleware": "^5.3.4",
+    "express": "^4.20.0"
   }
 }
